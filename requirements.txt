@@ -1,4 +1,7 @@
-django
-pillow
+asgiref
+Django
+Pillow
+sqlparse
+tzdata
 gunicorn
 whitenoise
